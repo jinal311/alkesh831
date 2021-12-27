@@ -1,1 +1,1 @@
-eddited 2 text file by A in remote
+eddited 2 text file by A in remote branch
